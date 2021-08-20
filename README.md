@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AnanSoli
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Cyber Security Skills
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 AnanSoli/AnanSoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
