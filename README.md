@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AnanSoli
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Cyber Security Skills
+
 
 
 <!---
