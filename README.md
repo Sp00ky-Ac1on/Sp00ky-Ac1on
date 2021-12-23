@@ -1,5 +1,5 @@
 -@AnanKeMOon
-< Cyber Security | Web development >
+< Cyber Security | Front-end Web Developer >
 
 
 <!---
