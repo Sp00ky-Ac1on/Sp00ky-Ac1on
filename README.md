@@ -1,6 +1,6 @@
 Anan Ahmed,
 
- < Cyber Security | Bounty Hunter |  Full stack Web Developer | Programming and Software development Instructor | Bushido :) >
+ < Cyber Security | Bounty Hunter |  Full stack Web Developer | Lead Programming and Software development Instructor | Bushido :) >
 https://anansoli.github.io/Web-development
 
 <!-- ![maxresdefault](https://github.com/AnanSoli/AnanSoli/blob/main/76cI.gif) -->
