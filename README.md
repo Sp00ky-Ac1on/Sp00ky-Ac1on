@@ -1,7 +1,7 @@
 <div align="center" style="color: #c4109d; text-shadow:0px 0px 15px #c4109d">
 <h3>
 Anan, <br>
- Full stack Web Developer | Lead Programming, Software development & AI Instructor | Cyber Security | Bounty Hunter |  Bushido 
+ Full stack Web Developer | Lead Programming, Software development & AI Instructor | Cyber Security | Bounty Hunter |  Bushido <img width="20px" src="imgs/ninja-light-skin-tone.svg"> 
 </h3>
 
 <h4>you wanna see something cool! 
