@@ -33,6 +33,10 @@ Anan, <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="70px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="70px" style="padding-right:15px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="70px" style="padding-right:15px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="70px" style="padding-right:15px;"/>
+
+            
+          
 </div>
 
 <h2 style="color: #5e87d0; ;text-shadow:0px 0px 10px #1055c4">📊 Statistics</h2>
